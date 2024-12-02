@@ -29,8 +29,11 @@ My current research interest lies in multi-modal representation learning. Feel f
 
 # 📝 Publications 
 
+``Arxiv 2024`` [LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant](https://code-kunkun.github.io/LamRA/) [![](https://img.shields.io/github/stars/Code-kunkun/LamRA?style=social&amp;label=Stars)](https://code-kunkun.github.io/LamRA/)<br>
+  **Yikun Liu**, Pingan Chen, Jiayin Cai, Xiaolong Jiang, Yao Hu, Jiangchao Yao, Yanfeng Wang, Weidi Xie.
+
 ``CVPR 2024`` [Audio-Visual Segmentation via Unlabeled Frame Exploitation](https://jinxiang-liu.github.io/UFE-AVS/) [![](https://img.shields.io/github/stars/jinxiang-liu/UFE-AVS?style=social&label=Stars)](https://github.com/jinxiang-liu/UFE-AVS)<br>
-  Jinxiang Liu, **Yikun Liu**, Fei Zhang, et al.
+  Jinxiang Liu, **Yikun Liu**, Fei Zhang, Chen Ju, Ya Zhang, Yanfeng Wang.
 
 ``BMVC 2023`` [Zero-shot Composed Text-Image Retrieval](https://code-kunkun.github.io/ZS-CIR/) [![](https://img.shields.io/github/stars/Code-kunkun/ZS-CIR?style=social&label=Stars)](https://github.com/Code-kunkun/ZS-CIR)<br>
   **Yikun Liu**, Jiangchao Yao, Yanfeng Wang, Ya Zhang, Weidi Xie.
