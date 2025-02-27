@@ -23,13 +23,14 @@ My current research interest lies in multi-modal representation learning. Feel f
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2412.01720">LamRA</a>) has been accepted by CVPR.
 - *2024.07*: &nbsp;Start internship at Xiaohongshu, Shanghai.
 - *2024.02*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2403.11074">UFE-AVS</a>) has been accepted by CVPR.
 - *2023.08*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2306.07272">ZS-CIR</a>) has been accepted by BMVC.
 
 # 📝 Publications 
 
-``Arxiv 2024`` [LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant](https://code-kunkun.github.io/LamRA/) [![](https://img.shields.io/github/stars/Code-kunkun/LamRA?style=social&amp;label=Stars)](https://code-kunkun.github.io/LamRA/)<br>
+``CVPR 2025`` [LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant](https://code-kunkun.github.io/LamRA/) [![](https://img.shields.io/github/stars/Code-kunkun/LamRA?style=social&amp;label=Stars)](https://code-kunkun.github.io/LamRA/)<br>
   **Yikun Liu**, Pingan Chen, Jiayin Cai, Xiaolong Jiang, Yao Hu, Jiangchao Yao, Yanfeng Wang, Weidi Xie.
 
 ``CVPR 2024`` [Audio-Visual Segmentation via Unlabeled Frame Exploitation](https://jinxiang-liu.github.io/UFE-AVS/) [![](https://img.shields.io/github/stars/jinxiang-liu/UFE-AVS?style=social&label=Stars)](https://github.com/jinxiang-liu/UFE-AVS)<br>
