@@ -34,7 +34,7 @@ My current research interest lies in multi-modal representation learning. Feel f
 ``Arxiv 2025`` [Learning Streaming Video Representation via Multitask Training](https://go2heart.github.io/streamformer/)<br>
   Yibin Yan, Jilan Xu, Shangzhe Di, **Yikun Liu**, Yudi Shi, Qirui Chen, Zeqian Li, Yifei Huang, Weidi Xie.
 
-``CVPR 2025`` [LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant](https://code-kunkun.github.io/LamRA/) [![](https://img.shields.io/github/stars/Code-kunkun/LamRA?style=social&amp;label=Stars)](https://code-kunkun.github.io/LamRA/)<br>
+``CVPR 2025`` [LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant](https://code-kunkun.github.io/LamRA/) [![](https://img.shields.io/github/stars/Code-kunkun/LamRA?style=social&amp;label=Stars)](https://github.com/Code-kunkun/LamRA)<br>
   **Yikun Liu**, Pingan Chen, Jiayin Cai, Xiaolong Jiang, Yao Hu, Jiangchao Yao, Yanfeng Wang, Weidi Xie.
 
 ``CVPR 2024`` [Audio-Visual Segmentation via Unlabeled Frame Exploitation](https://jinxiang-liu.github.io/UFE-AVS/) [![](https://img.shields.io/github/stars/jinxiang-liu/UFE-AVS?style=social&label=Stars)](https://github.com/jinxiang-liu/UFE-AVS)<br>
