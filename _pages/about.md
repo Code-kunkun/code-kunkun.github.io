@@ -23,12 +23,16 @@ My current research interest lies in multi-modal representation learning. Feel f
 
 
 # 🔥 News
+- *2025.05*: &nbsp;Start internship at Tencent, Shanghai.
 - *2025.02*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2412.01720">LamRA</a>) has been accepted by CVPR.
 - *2024.07*: &nbsp;Start internship at Xiaohongshu, Shanghai.
 - *2024.02*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2403.11074">UFE-AVS</a>) has been accepted by CVPR.
 - *2023.08*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2306.07272">ZS-CIR</a>) has been accepted by BMVC.
 
 # 📝 Publications 
+
+``Arxiv 2025`` [Learning Streaming Video Representation via Multitask Training](https://go2heart.github.io/streamformer/)<br>
+  Yibin Yan, Jilan Xu, Shangzhe Di, **Yikun Liu**, Yudi Shi, Qirui Chen, Zeqian Li, Yifei Huang, Weidi Xie.
 
 ``CVPR 2025`` [LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant](https://code-kunkun.github.io/LamRA/) [![](https://img.shields.io/github/stars/Code-kunkun/LamRA?style=social&amp;label=Stars)](https://code-kunkun.github.io/LamRA/)<br>
   **Yikun Liu**, Pingan Chen, Jiayin Cai, Xiaolong Jiang, Yao Hu, Jiangchao Yao, Yanfeng Wang, Weidi Xie.
@@ -41,7 +45,9 @@ My current research interest lies in multi-modal representation learning. Feel f
 
 
 # 💻 Internships
-- *2024.07 - now*, [Xiaohongshu](https://www.xiaohongshu.com
+- *2025.05 - now*, [Tencent](https://www.tencent.com/en-us/
+), China.
+- *2024.07 - 2025.04*, [Xiaohongshu](https://www.xiaohongshu.com
 ), China.
 
 # 🎖 Honors and Awards
