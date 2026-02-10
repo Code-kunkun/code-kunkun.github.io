@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm Yikun Liu. I am currently a 2nd-year PhD candidate of <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain</a> at <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University (SJTU)</a>, advised by <a href="https://weidixie.github.io/">Prof.Weidi Xie</a>, <a href="https://sunarker.github.io/index.html">Prof.Jiangchao Yao</a> and <a href="https://cmic.sjtu.edu.cn/wangyanfeng/">Prof.Yanfeng Wang</a>. Previously, I received my B.S. degree from <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a> in june 2023.
+Hello! I'm Yikun Liu. I am currently a 3rd-year PhD candidate of <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain</a> at <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University (SJTU)</a>, advised by <a href="https://weidixie.github.io/">Prof.Weidi Xie</a>, <a href="https://sunarker.github.io/index.html">Prof.Jiangchao Yao</a> and <a href="https://cmic.sjtu.edu.cn/wangyanfeng/">Prof.Yanfeng Wang</a>. Previously, I received my B.S. degree from <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a> in june 2023.
 
 My current research interest lies in multi-modal representation learning. Feel free to reach me if you are seeking any form of cooperation.
 
