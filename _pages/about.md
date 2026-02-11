@@ -31,7 +31,7 @@ My current research interest lies in multi-modal representation learning. Feel f
 
 # 📝 Publications 
 
-``Arvix 2026`` [VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization](https://code-kunkun.github.io/VersaViT/) [![](https://img.shields.io/github/stars/Tencent/VersaViT?style=social&amp;label=Stars)](https://github.com/Tencent/VersaViT)<br>
+``Arvix 2026`` [VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization](https://code-kunkun.github.io/VersaViT/) <br>
   **Yikun Liu**, Yuan Liu, Shangzhe Di, Haicheng Wang, Zhongyin Zhao, Le Tian, Xiao Zhou, Jie Zhou, Jiangchao Yao, Yanfeng Wang, Weidi Xie.
 
 ``Arvix 2026`` [POINTS-GUI-G: GUI-Grounding Journey](https://github.com/Tencent/POINTS-GUI) [![](https://img.shields.io/github/stars/Tencent/POINTS-GUI?style=social&amp;label=Stars)](https://github.com/Tencent/POINTS-GUI)<br>
