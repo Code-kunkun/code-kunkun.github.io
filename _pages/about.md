@@ -23,8 +23,8 @@ My current research interest lies in multi-modal representation learning. Feel f
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 One paper (<a href="https://code-kunkun.github.io/VersaViT/">VersaViT</a>) has been accepted by ECCV.
-- *2026.03*: &nbsp;🎉🎉 One paper (<a href="https://code-kunkun.github.io/SanityCIR/">SanityCIR</a>) has been accepted by CVPRW.
+- *2026.06*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2602.09934">VersaViT</a>) has been accepted by ECCV.
+- *2026.03*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2604.12904">SanityCIR</a>) has been accepted by CVPRW.
 - *2026.02*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2604.11627">POINTS-Long</a>) has been accepted by CVPR.
 - *2025.05*: &nbsp;Start internship at Tencent, Shanghai.
 - *2025.02*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2412.01720">LamRA</a>) has been accepted by CVPR.
@@ -34,7 +34,7 @@ My current research interest lies in multi-modal representation learning. Feel f
 
 # 📝 Publications 
 
-``ECCV 2026`` [VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization](https://code-kunkun.github.io/VersaViT/) [![](https://img.shields.io/github/stars/Tencent/VersaViT?style=social&amp;label=Stars)](https://github.com/Tencent/VersaViT) <br>
+``ECCV 2026`` [VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization](https://code-kunkun.github.io/VersaViT/) <br>
   **Yikun Liu**, Yuan Liu, Shangzhe Di, Haicheng Wang, Zhongyin Zhao, Le Tian, Xiao Zhou, Jie Zhou, Jiangchao Yao, Yanfeng Wang, Weidi Xie.
 
 ``CVPR 2026`` [POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs](https://arxiv.org/abs/2604.11627)<br>
@@ -43,19 +43,19 @@ My current research interest lies in multi-modal representation learning. Feel f
 ``CVPRW 2026`` [A Sanity Check on Composed Image Retrieval](https://code-kunkun.github.io/SanityCIR/)<br>
   **Yikun Liu**, Jiangchao Yao, Weidi Xie, Yanfeng Wang.
 
-``Arxiv 2026`` [POINTS-GUI-G: GUI-Grounding Journey](https://github.com/Tencent/POINTS-GUI) [![](https://img.shields.io/github/stars/Tencent/POINTS-GUI?style=social&amp;label=Stars)](https://github.com/Tencent/POINTS-GUI)<br>
+``Arxiv 2026`` [POINTS-GUI-G: GUI-Grounding Journey](https://github.com/Tencent/POINTS-GUI)<br>
   Zhongyin Zhao, Yuan Liu, **Yikun Liu**, Haicheng Wang, Le Tian, Xiao Zhou, Yangxiu You, Zilin Yu, Yang Yu, Jie Zhou.
 
-``ICCV 2025`` [Learning Streaming Video Representation via Multitask Training](https://go2heart.github.io/streamformer/) [![](https://img.shields.io/github/stars/Go2Heart/StreamFormer?style=social&amp;label=Stars)](https://github.com/Go2Heart/StreamFormer)<br>
+``ICCV 2025`` [Learning Streaming Video Representation via Multitask Training](https://go2heart.github.io/streamformer/)<br>
   Yibin Yan, Jilan Xu, Shangzhe Di, **Yikun Liu**, Yudi Shi, Qirui Chen, Zeqian Li, Yifei Huang, Weidi Xie.
 
-``CVPR 2025`` [LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant](https://code-kunkun.github.io/LamRA/) [![](https://img.shields.io/github/stars/Code-kunkun/LamRA?style=social&amp;label=Stars)](https://github.com/Code-kunkun/LamRA)<br>
+``CVPR 2025`` [LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant](https://code-kunkun.github.io/LamRA/)<br>
   **Yikun Liu**, Pingan Chen, Jiayin Cai, Xiaolong Jiang, Yao Hu, Jiangchao Yao, Yanfeng Wang, Weidi Xie.
 
-``CVPR 2024`` [Audio-Visual Segmentation via Unlabeled Frame Exploitation](https://jinxiang-liu.github.io/UFE-AVS/) [![](https://img.shields.io/github/stars/jinxiang-liu/UFE-AVS?style=social&label=Stars)](https://github.com/jinxiang-liu/UFE-AVS)<br>
+``CVPR 2024`` [Audio-Visual Segmentation via Unlabeled Frame Exploitation](https://jinxiang-liu.github.io/UFE-AVS/)<br>
   Jinxiang Liu, **Yikun Liu**, Fei Zhang, Chen Ju, Ya Zhang, Yanfeng Wang.
 
-``BMVC 2023`` [Zero-shot Composed Text-Image Retrieval](https://code-kunkun.github.io/ZS-CIR/) [![](https://img.shields.io/github/stars/Code-kunkun/ZS-CIR?style=social&label=Stars)](https://github.com/Code-kunkun/ZS-CIR)<br>
+``BMVC 2023`` [Zero-shot Composed Text-Image Retrieval](https://code-kunkun.github.io/ZS-CIR/)<br>
   **Yikun Liu**, Jiangchao Yao, Yanfeng Wang, Ya Zhang, Weidi Xie.
 
 
