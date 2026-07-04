@@ -23,6 +23,9 @@ My current research interest lies in multi-modal representation learning. Feel f
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One paper (<a href="https://code-kunkun.github.io/VersaViT/">VersaViT</a>) has been accepted by ECCV.
+- *2026.03*: &nbsp;🎉🎉 One paper (<a href="https://code-kunkun.github.io/SanityCIR/">SanityCIR</a>) has been accepted by CVPRW.
+- *2026.02*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2604.11627">POINTS-Long</a>) has been accepted by CVPR.
 - *2025.05*: &nbsp;Start internship at Tencent, Shanghai.
 - *2025.02*: &nbsp;🎉🎉 One paper (<a href="https://arxiv.org/abs/2412.01720">LamRA</a>) has been accepted by CVPR.
 - *2024.07*: &nbsp;Start internship at Xiaohongshu, Shanghai.
@@ -31,8 +34,14 @@ My current research interest lies in multi-modal representation learning. Feel f
 
 # 📝 Publications 
 
-``Arxiv 2026`` [VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization](https://code-kunkun.github.io/VersaViT/) [![](https://img.shields.io/github/stars/Tencent/VersaViT?style=social&amp;label=Stars)](https://github.com/Tencent/VersaViT) <br>
+``ECCV 2026`` [VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization](https://code-kunkun.github.io/VersaViT/) [![](https://img.shields.io/github/stars/Tencent/VersaViT?style=social&amp;label=Stars)](https://github.com/Tencent/VersaViT) <br>
   **Yikun Liu**, Yuan Liu, Shangzhe Di, Haicheng Wang, Zhongyin Zhao, Le Tian, Xiao Zhou, Jie Zhou, Jiangchao Yao, Yanfeng Wang, Weidi Xie.
+
+``CVPR 2026`` [POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs](https://arxiv.org/abs/2604.11627)<br>
+  Haicheng Wang<sup>*</sup>, Yuan Liu<sup>*</sup>, **Yikun Liu**<sup>*</sup>, Zhemeng Yu, Zhongyin Zhao, Yangxiu You, Zilin Yu, Le Tian, Xiao Zhou, Jie Zhou, Weidi Xie, Yanfeng Wang.
+
+``CVPRW 2026`` [A Sanity Check on Composed Image Retrieval](https://code-kunkun.github.io/SanityCIR/)<br>
+  **Yikun Liu**, Jiangchao Yao, Weidi Xie, Yanfeng Wang.
 
 ``Arxiv 2026`` [POINTS-GUI-G: GUI-Grounding Journey](https://github.com/Tencent/POINTS-GUI) [![](https://img.shields.io/github/stars/Tencent/POINTS-GUI?style=social&amp;label=Stars)](https://github.com/Tencent/POINTS-GUI)<br>
   Zhongyin Zhao, Yuan Liu, **Yikun Liu**, Haicheng Wang, Le Tian, Xiao Zhou, Yangxiu You, Zilin Yu, Yang Yu, Jie Zhou.
