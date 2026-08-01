@@ -37,6 +37,9 @@ My current research interest lies in multi-modal representation learning. Feel f
 ``ECCV 2026`` [VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization](https://code-kunkun.github.io/VersaViT/) <br>
   **Yikun Liu**, Yuan Liu, Shangzhe Di, Haicheng Wang, Zhongyin Zhao, Le Tian, Xiao Zhou, Jie Zhou, Jiangchao Yao, Yanfeng Wang, Weidi Xie.
 
+``Technical Report 2026`` [POINTS-Seeker: An Open Recipe for Multimodal Search Agents with Visual Memory Management](https://arxiv.org/abs/2604.14029)<br>
+  **Yikun Liu**<sup>*</sup>, Yuan Liu<sup>*</sup>, Haicheng Wang, Zhongyin Zhao, Le Tian, Xiao Zhou, Jiangchao Yao, Yanfeng Wang, Weidi Xie.
+
 ``CVPR 2026`` [POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs](https://arxiv.org/abs/2604.11627)<br>
   Haicheng Wang<sup>*</sup>, Yuan Liu<sup>*</sup>, **Yikun Liu**<sup>*</sup>, Zhemeng Yu, Zhongyin Zhao, Yangxiu You, Zilin Yu, Le Tian, Xiao Zhou, Jie Zhou, Weidi Xie, Yanfeng Wang.
 
